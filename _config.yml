@@ -1,0 +1,8 @@
+title: Lp-consultoria
+description: Cosultoria de Leticia Pereira, especialista em Recrutamento e Seleção
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
