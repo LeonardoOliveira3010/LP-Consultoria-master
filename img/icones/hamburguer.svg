@@ -1,0 +1,10 @@
+<svg width="21.999999999999996" height="21.999999999999996" xmlns="http://www.w3.org/2000/svg">
+                <g>
+                    <line stroke="#964b00" class="firstLine" y2="4.146656" x2="25.477124" y1="4.146656" x1="-1.973854"
+                        stroke-width="3.5" />
+                    <line stroke="#964b00" class="secondLine" y2="11.151682" x2="25.607844" y1="11.020963" x1="-2.104574"
+                        stroke-width="3.5" />
+                    <line stroke="#964b00" class="thirdLine" y2="17.804165" x2="24.852663" y1="17.673446" x1="-1.683284"
+                        stroke-width="3.5" />
+                </g>
+            </svg>
