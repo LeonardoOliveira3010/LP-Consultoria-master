@@ -6153,6 +6153,7 @@ textarea.materialize-textarea {
   transition: box-shadow .3s, border .3s;
   transition: box-shadow .3s, border .3s, -webkit-box-shadow .3s;
   color: #fff;
+  padding-left: 10px;
 }
 
 input:not([type]):disabled, input:not([type])[readonly="readonly"],
