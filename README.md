@@ -12,7 +12,7 @@ A consultoria LP premier foi desenvolvida para ser simples e eficaz, com base na
 4. font awesome
 
 #LP Consultoria imagens
-(https://user-images.githubusercontent.com/65436800/89970036-67c56580-dc47-11ea-9140-595a3d55989c.png)
+![lpDesktop1](https://user-images.githubusercontent.com/65436800/89970634-c93a0400-dc48-11ea-8c06-57162ad14889.png)
 
 (https://user-images.githubusercontent.com/65436800/89970358-34370b00-dc48-11ea-90a5-19fd29452b1c.png)
 
