@@ -7,6 +7,59 @@
 
 
 
+//MODAL
+function iniciaModal(modalID){
+    const modal = document.getElementById(modalID)
+    if(modal){
+    modal.classList.add('mostrar')
+    modal.addEventListener('click', (event) =>{
+        if(event.target.id == modalID || event.target.className == 'fechar') {
+            modal.classList.remove('mostrar')
+        }
+    })
+    }
+}
+
+const treinamento = document.getElementById('treinamento--selecao__modal')
+treinamento.addEventListener('click', () => {
+    iniciaModal('modal-treinamento')
+})
+
+const analise = document.getElementById('analise__modal')
+analise.addEventListener('click', () =>{
+    iniciaModal('modal-analise')
+})
+
+const headHunter = document.getElementById('head__modal')
+headHunter.addEventListener('click', () =>{
+    iniciaModal('modal-head__hunter')
+})
+
+const palestras = document.getElementById('palestra__modal')
+palestras.addEventListener('click', () =>{
+    iniciaModal('modal-palestra')
+})
+
+const testeVocacional = document.getElementById('teste__modal')
+testeVocacional.addEventListener('click', () =>{
+    iniciaModal('modal-teste')
+})
+
+const entrevista = document.getElementById('simulador__modal')
+entrevista.addEventListener('click', () =>{
+    iniciaModal('modal-entrevista')
+})
+
+
+
+
+
+
+
+
+
+
+
 
 
 // Efeito Scroll de Rolagem

@@ -2597,7 +2597,7 @@ textarea {
 }
 
 ul:not(.browser-default) {
-  padding-left: 0;
+  padding-left: 40px;
   list-style-type: none;
 }
 
@@ -5748,7 +5748,7 @@ body.keyboard-focused .dropdown-content li:focus {
   z-index: -1;
 }
 
-.modal {
+/* .modal {
   display: none;
   position: fixed;
   left: 0;
@@ -5761,7 +5761,7 @@ body.keyboard-focused .dropdown-content li:focus {
   overflow-y: auto;
   border-radius: 2px;
   will-change: top, opacity;
-}
+} */
 
 .modal:focus {
   outline: none;
